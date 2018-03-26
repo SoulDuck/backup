@@ -4,7 +4,7 @@
 
 # Install Program
  ## 1.Brew 
- ## 2.pip 
+ ## 2.Pip 
 > Globally Installed pip package
 > * numpy 
 > * pydicom
