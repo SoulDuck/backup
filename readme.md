@@ -42,6 +42,10 @@ So all Package was controlled by *Virtualenv*</br>
  * Password <br/>
  
  *26 March 2018*
- ## Paragon Driver (For Seagate , NTFS)
+ ## [Mounty](http://www.enjoygineering.com/mounty/) (for Mounting NTFS)
+ 
  ## ZSH 
  * reference https://beomi.github.io/2017/07/07/Beautify-ZSH/
+ 
+
+ 
