@@ -3,8 +3,8 @@
 * From **10.12.6 *Sierra*** to  **10.13.3 *High Sierra***
 
 # Install Program
- * Brew 
- * pip 
+ ## Brew 
+ ## pip 
 > Globally Installed pip package
 > * numpy 
 > * pydicom
