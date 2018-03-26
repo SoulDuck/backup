@@ -5,11 +5,11 @@
 # Install Program
  * Brew 
  * pip 
-> Globally Installed pip package list
->> * numpy 
->> * pydicom
->> * scikit-learn
->> * matplotlib
+> Globally Installed pip package
+> * numpy 
+> * pydicom
+> * scikit-learn
+> * matplotlib
 ### Note that 
 cannot install tensorflow , or some package , globally using pip <br/>
 So all Package was controlled by *Virtualenv*</br>
