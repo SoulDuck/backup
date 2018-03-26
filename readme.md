@@ -1,5 +1,6 @@
 # Backup 
-## * From **Macbook pro** to **Imac** <br/> * From 10.12.6 *Sierra* to  10.13.3 *High Sierra*
+* From **Macbook pro** to **Imac** 
+* From **10.12.6 *Sierra*** to  **10.13.3 *High Sierra***
 
 # Install Program
  * Brew 
@@ -43,7 +44,7 @@ So all Package was controlled by *Virtualenv*</br>
  
  *26 March 2018*
  ## [Mounty](http://www.enjoygineering.com/mounty/) (for Mounting NTFS)
- * don't ever install paragon with Mounty , I think Mounty is better Because it is free 
+ * Don't ever install paragon with Mounty , I think Mounty is better Because it is free 
  ## ZSH , Oh-My-Zsh , iTerm
  * reference https://beomi.github.io/2017/07/07/Beautify-ZSH/
  
