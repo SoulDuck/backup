@@ -10,9 +10,10 @@
 > * pydicom
 > * scikit-learn
 > * matplotlib
-### Note that 
+> * Note that 
 cannot install tensorflow , or some package , globally using pip <br/>
-So all Package was controlled by *Virtualenv*</br>
+So all Package was controlled by *Virtualenv*
+(https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.1.0-py2-none-any.whl)
 
 ## 3.Pycharm Version 2017.1.3 --> 2017.3.4
 > installed Package
