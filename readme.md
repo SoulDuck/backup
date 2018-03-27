@@ -52,5 +52,5 @@ So all Package was controlled by *Virtualenv*
  ## 8.ZSH , Oh-My-Zsh , iTerm
  * reference https://beomi.github.io/2017/07/07/Beautify-ZSH/
  
-## 9.node.js
+## 9.Node.js
  
