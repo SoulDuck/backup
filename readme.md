@@ -53,4 +53,5 @@ So all Package was controlled by *Virtualenv*
  * reference https://beomi.github.io/2017/07/07/Beautify-ZSH/
  
 ## 9.Node.js
+## 10.JQuery
  
