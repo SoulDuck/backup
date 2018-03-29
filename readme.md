@@ -4,6 +4,9 @@
 
 # Install Program
  ## 1.Brew 
+> Globally Installed brew package
+> * tree
+
  ## 2.Pip 
 > Globally Installed pip package
 > * numpy 
