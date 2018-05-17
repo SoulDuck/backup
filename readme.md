@@ -42,7 +42,7 @@ So all Package was controlled by *Virtualenv*
 > * Package Control <br/>
 > * PyV8 <br/>
 > * Underscorejs snippets <br/>
-
+> * JQuery
 
 
 ## 5.Docker 
